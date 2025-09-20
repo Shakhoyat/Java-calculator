@@ -55,3 +55,5 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ---
 
 Happy calculating! If you have any questions, feedback, or encounter any issues with the Java Calculator project, please don't hesitate to reach out. Enjoy coding!
+
+# Well Rebase is fun !
