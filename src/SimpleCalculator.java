@@ -15,6 +15,6 @@ public class SimpleCalculator {
         if (b == 0) {
             throw new IllegalArgumentException("Can't divide by zero");
         }
-        return (double) a / b;
+        return a / b;
     }
 }
