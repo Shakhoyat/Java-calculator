@@ -11,10 +11,11 @@ public class SimpleCalculator {
         return a * b;
     }
 
-    public double divide(int a, int b) {
+    public double divide(double a, double b) {
         if (b == 0) {
             throw new IllegalArgumentException("Can't divide by zero");
         }
-        return a / b;
+        System.out.println("Dividing a by b !!");
+        return (double) a / b;
     }
 }
