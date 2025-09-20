@@ -15,6 +15,7 @@ public class SimpleCalculator {
         if (b == 0) {
             throw new IllegalArgumentException("Can't divide by zero");
         }
+        System.out.println("Dividing a by b !!");
         return (double) a / b;
     }
 }
